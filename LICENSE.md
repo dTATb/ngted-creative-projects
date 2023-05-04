@@ -1,0 +1,3 @@
+Copyright (C) 2023 Hung Ng <https://madeincafe.net/hungng>
+
+This file is a product of my exploration or creative process and is protected by copyright laws. It is important to note that the content within this file is solely owned by me, Hung Ng, and any unauthorized use or distribution is strictly prohibited. If you need to edit, copy, or distribute any of the files, please kindly contact me for permission beforehand. I appreciate your cooperation in respecting my intellectual property rights. Thank you for your understanding.
